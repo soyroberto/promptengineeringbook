@@ -1,6 +1,6 @@
 # Behind the Scenes: The Computational Process of Image Generation
 
-In this section, we'll take a deep dive into what happens computationally when an AI generates images like our manga and Sega-inspired versions of MAU. Understanding these processes can help you craft more effective prompts and better anticipate results.
+In this section, we'll take a deep dive into what happens computationally when an AI generates images like our manga and Sega-inspired version of MAU. Understanding these processes can help you craft more effective prompts and better anticipate results.
 
 ## The Image Generation Pipeline
 
