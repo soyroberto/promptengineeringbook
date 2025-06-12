@@ -228,7 +228,7 @@ The LLM outlines a sophisticated design approach that directly addresses memory 
 
 ### Response Section 3: Implementation Walkthrough
 
-```
+```c
 ## Implementation Walkthrough
 
 Let's implement our memory-efficient grep. I'll start with the core data structures and then 
