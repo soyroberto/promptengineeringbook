@@ -231,7 +231,7 @@ In the next chapter, we'll explore a simple framework for constructing effective
 
 ---
 
-**EXERCISES**
+**EXERCISES: YOUR TURN**
 
 ![Trufa in racing suit - Your turn to practice!](https://raw.githubusercontent.com/soyroberto/promptengineeringbook/main/images/chapter1/trufa_exercises.png)
 
