@@ -12,7 +12,7 @@ In this chapter, Leonardo, your friendly AI fox guide, will walk you through com
 
 ### EXAMPLE 1: "WRITE A STORY"
 
-![Trufa explains to Paula about the vague prompt 'Write a story'](images/chapter1/example1_write_a_story.png)
+![Trufa explains to Paula about the vague prompt 'Write a story'](https://raw.githubusercontent.com/soyroberto/promptengineeringbook/main/images/chapter1/example1_write_a_story.png)
 
 > **Prompt:** Write a story.
 
@@ -34,7 +34,7 @@ When faced with such a vague prompt, an AI system must make assumptions about al
 
 ### EXAMPLE 2: "GIVE ME INFORMATION"
 
-![Trufa explains to Paula about the overly vague prompt 'Give me information'](images/chapter1/example2_give_me_information.png)
+![Trufa explains to Paula about the overly vague prompt 'Give me information'](https://raw.githubusercontent.com/soyroberto/promptengineeringbook/main/images/chapter1/example2_give_me_information.png)
 
 > **Prompt:** Give me information.
 
@@ -59,7 +59,7 @@ None of these outcomes is likely to satisfy your actual information need.
 
 ### EXAMPLE 3: "HELP ME WITH MY PROJECT"
 
-![Trufa explains to Paula about the unclear prompt 'Help me with my project'](images/chapter1/example3_help_with_project.png)
+![Trufa explains to Paula about the unclear prompt 'Help me with my project'](https://raw.githubusercontent.com/soyroberto/promptengineeringbook/main/images/chapter1/example3_help_with_project.png)
 
 > **Prompt:** Help me with my project.
 
@@ -79,7 +79,7 @@ Without these details, the AI might suggest steps you've already completed or pr
 
 ### EXAMPLE 4: "MAKE THIS BETTER"
 
-![Trufa explains to Paula about the missing content in 'Make this better'](images/chapter1/example4_make_this_better.png)
+![Trufa explains to Paula about the missing content in 'Make this better'](https://raw.githubusercontent.com/soyroberto/promptengineeringbook/main/images/chapter1/example4_make_this_better.png)
 
 > **Prompt:** Make this better.
 
@@ -99,7 +99,7 @@ This prompt is particularly problematic because it not only lacks specificity bu
 
 ### EXAMPLE 5: "ANALYZE THIS DATA"
 
-![Trufa explains to Paula about the missing data in 'Analyze this data'](images/chapter1/example5_analyze_this_data.png)
+![Trufa explains to Paula about the missing data in 'Analyze this data'](https://raw.githubusercontent.com/soyroberto/promptengineeringbook/main/images/chapter1/example5_analyze_this_data.png)
 
 > **Prompt:** Analyze this data.
 
@@ -119,7 +119,7 @@ Without the actual data and specific analysis objectives, the AI can only explai
 
 ### EXAMPLE 6: "CREATE A MARKETING PLAN"
 
-![Trufa explains to Paula about the lack of specificity in 'Create a marketing plan'](images/chapter1/example6_create_marketing_plan.png)
+![Trufa explains to Paula about the lack of specificity in 'Create a marketing plan'](https://raw.githubusercontent.com/soyroberto/promptengineeringbook/main/images/chapter1/example6_create_marketing_plan.png)
 
 > **Prompt:** Create a marketing plan.
 
@@ -141,7 +141,7 @@ Without these critical details, any marketing plan generated will be filled with
 
 ### EXAMPLE 7: "FIX THIS CODE"
 
-![Trufa explains to Paula about the missing code in 'Fix this code'](images/chapter1/example7_fix_this_code.png)
+![Trufa explains to Paula about the missing code in 'Fix this code'](https://raw.githubusercontent.com/soyroberto/promptengineeringbook/main/images/chapter1/example7_fix_this_code.png)
 
 > **Prompt:** Fix this code.
 
@@ -210,7 +210,7 @@ This level of detail gives the AI clear parameters to work within, dramatically 
 
 ## CHAPTER SUMMARY
 
-![Trufa and Paula celebrate learning about well-crafted prompts](images/chapter1/chapter_summary.png)
+![Trufa and Paula celebrate learning about well-crafted prompts](https://raw.githubusercontent.com/soyroberto/promptengineeringbook/main/images/chapter1/chapter_summary.png)
 
 In this chapter, we've explored common examples of insufficient prompts and why they fail to produce useful results. We've learned that:
 
@@ -232,6 +232,8 @@ In the next chapter, we'll explore a simple framework for constructing effective
 ---
 
 **EXERCISES**
+
+![Trufa in racing suit - Your turn to practice!](https://raw.githubusercontent.com/soyroberto/promptengineeringbook/main/images/chapter1/trufa_exercises.png)
 
 1. Take one of the bad prompts from this chapter and transform it into a detailed, effective prompt.
 2. Identify three prompts you've used with AI systems in the past that could be improved, and rewrite them with greater specificity.
