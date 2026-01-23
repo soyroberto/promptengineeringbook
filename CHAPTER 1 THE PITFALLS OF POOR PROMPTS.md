@@ -12,6 +12,8 @@ In this chapter, Leonardo, your friendly AI fox guide, will walk you through com
 
 ### EXAMPLE 1: "WRITE A STORY"
 
+![Trufa explains to Paula about the vague prompt 'Write a story'](images/chapter1/example1_write_a_story.png)
+
 > **Prompt:** Write a story.
 
 This three-word prompt seems straightforward enough. You want the AI to write a story. But let's examine what's missing:
@@ -31,6 +33,8 @@ When faced with such a vague prompt, an AI system must make assumptions about al
 **Leonardo Says:** *"When you provide a prompt as open-ended as 'Write a story,' you're essentially asking the AI to play a guessing game. It's like walking into a restaurant and just saying 'Food, please!' You might get something edible, but it's unlikely to be what you were craving."*
 
 ### EXAMPLE 2: "GIVE ME INFORMATION"
+
+![Trufa explains to Paula about the overly vague prompt 'Give me information'](images/chapter1/example2_give_me_information.png)
 
 > **Prompt:** Give me information.
 
@@ -55,6 +59,8 @@ None of these outcomes is likely to satisfy your actual information need.
 
 ### EXAMPLE 3: "HELP ME WITH MY PROJECT"
 
+![Trufa explains to Paula about the unclear prompt 'Help me with my project'](images/chapter1/example3_help_with_project.png)
+
 > **Prompt:** Help me with my project.
 
 This prompt assumes the AI knows what your project is, what stage it's in, and what kind of help you need. Without this context, the AI can only provide generic advice that may not apply to your situation.
@@ -72,6 +78,8 @@ Without these details, the AI might suggest steps you've already completed or pr
 **Leonardo Says:** *"Imagine calling a consultant and saying only 'Help me with my project.' Before they could offer any meaningful assistance, they'd need to ask you dozens of questions. The same is true for AI—the more context you provide upfront, the more tailored and useful the response will be."*
 
 ### EXAMPLE 4: "MAKE THIS BETTER"
+
+![Trufa explains to Paula about the missing content in 'Make this better'](images/chapter1/example4_make_this_better.png)
 
 > **Prompt:** Make this better.
 
@@ -91,6 +99,8 @@ This prompt is particularly problematic because it not only lacks specificity bu
 
 ### EXAMPLE 5: "ANALYZE THIS DATA"
 
+![Trufa explains to Paula about the missing data in 'Analyze this data'](images/chapter1/example5_analyze_this_data.png)
+
 > **Prompt:** Analyze this data.
 
 Data analysis requires both the data itself and an understanding of what insights you're looking for. This prompt provides neither.
@@ -108,6 +118,8 @@ Without the actual data and specific analysis objectives, the AI can only explai
 **Leonardo Says:** *"Asking an AI to 'analyze this data' without providing the data is like asking a chef to critique a dish without letting them taste it. And even with the data, without knowing what you're looking for, the analysis might focus on aspects that aren't relevant to your needs."*
 
 ### EXAMPLE 6: "CREATE A MARKETING PLAN"
+
+![Trufa explains to Paula about the lack of specificity in 'Create a marketing plan'](images/chapter1/example6_create_marketing_plan.png)
 
 > **Prompt:** Create a marketing plan.
 
@@ -128,6 +140,8 @@ Without these critical details, any marketing plan generated will be filled with
 **Leonardo Says:** *"A marketing plan without specifics is like a map without a destination or starting point—it might contain useful information, but it can't actually guide you where you need to go."*
 
 ### EXAMPLE 7: "FIX THIS CODE"
+
+![Trufa explains to Paula about the missing code in 'Fix this code'](images/chapter1/example7_fix_this_code.png)
 
 > **Prompt:** Fix this code.
 
@@ -196,7 +210,7 @@ This level of detail gives the AI clear parameters to work within, dramatically 
 
 ## CHAPTER SUMMARY
 
-![Leonardo the AI Fox giving a thumbs up next to a well-crafted prompt]
+![Trufa and Paula celebrate learning about well-crafted prompts](images/chapter1/chapter_summary.png)
 
 In this chapter, we've explored common examples of insufficient prompts and why they fail to produce useful results. We've learned that:
 
