@@ -1,5 +1,8 @@
 # Copyright © 2026 [Roberto López C. (soyroberto)]. All rights reserved.
-
+Images are NOT open source.
+[![Text: CC BY-NC-ND 4.0](https://img.shields.io/badge/Text-CC%20BY--NC--ND%204.0-009900)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+[![Images: Proprietary](https://img.shields.io/badge/Images-Proprietary-ff0000)](IMAGE_LICENSE.md)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-brightgreen)](https://github.com/soyroberto/promptengineeringbook/pulse)
 # Text Content License
 
 The textual content of this book is licensed under the
@@ -20,7 +23,3 @@ See: https://creativecommons.org/licenses/by-nc-nd/4.0/
 
 **NOTE**: This license applies ONLY to text. Images have a separate, more restrictive license.
 
-Images are NOT open source.
-[![Text: CC BY-NC-ND 4.0](https://img.shields.io/badge/Text-CC%20BY--NC--ND%204.0-009900)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
-[![Images: Proprietary](https://img.shields.io/badge/Images-Proprietary-ff0000)](IMAGE_LICENSE.md)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-brightgreen)](https://github.com/soyroberto/promptengineeringbook/pulse)
