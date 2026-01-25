@@ -1,9 +1,7 @@
 
 # Prompt Engineering Book
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/your-username/promptengineeringbook/graphs/commit-activity)
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://opensource.org/)
+[![Text: CC BY-NC-ND 4.0](https://img.shields.io/badge/Text-CC%20BY--NC--ND%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+[![Images: All Rights Reserved](https://img.shields.io/badge/Images-All%20Rights%20Reserved-red.svg)](LICENSE.md)
 
 ## Introduction
 
