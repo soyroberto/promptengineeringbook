@@ -2,7 +2,7 @@
 
 All images, diagrams, screenshots, illustrations, and visual content in this repository are:
 
-**© [2026] [Roberto López C.]. All Rights Reserved.**
+**© [2026] [Roberto López C. (soyroberto)]. All Rights Reserved.**
 
 ## Strictly Prohibited:
 - Reproduction
