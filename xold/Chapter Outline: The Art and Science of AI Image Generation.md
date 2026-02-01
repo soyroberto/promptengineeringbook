@@ -15,7 +15,7 @@
 
 ### 1. Introduction to AI Image Generation
 - Brief overview of AI image generation evolution
-- Leonardo's introduction to the chapter
+- Roberto's introduction to the chapter
 - Why understanding image generation matters for prompt engineering
 - Overview of different approaches (GANs, diffusion models, etc.)
 
@@ -40,14 +40,14 @@
 - Technical path: Technical mechanisms of conditioning
 - Practical path: Thinking about "inspiration" vs "copying"
 
-### 5. Case Study: Creating a Manga Version of MAU
+### 5. Case Study: Creating a Manga Version of Trufa
 - Analyzing the source image characteristics
 - Crafting an effective prompt for manga style
 - The generation process step-by-step
 - Technical path: How style conditioning works
 - Practical path: Tips for achieving desired artistic styles
 
-### 6. Case Study: Sega-Inspired MAU for T-Shirt Design
+### 6. Case Study: Sega-Inspired Paula for T-Shirt Design
 - Commercial considerations for merchandise design
 - Adapting the prompt for the Sega aesthetic
 - Technical path: How the model interprets "Sega style"
