@@ -15,7 +15,6 @@
 
 ### 1. Introduction to AI Image Generation
 - Brief overview of AI image generation evolution
-- Roberto's introduction to the chapter
 - Why understanding image generation matters for prompt engineering
 - Overview of different approaches (GANs, diffusion models, etc.)
 
